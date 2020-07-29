@@ -1,46 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "#MUSIC",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Cyberpunk é um sub-gênero de ficção científica que utiliza elementos de romances policiais, film noir e prosa pós-moderna.",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "CYBERPUNK | 2-Hours Epic Music Mix - THE POWER OF EPIC MUSIC - Best Of Collection",
+          "url": "https://www.youtube.com/watch?v=YKBskcoofH8&"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Crime City Nights - Cyberpunk / Dark Synthwave",
+          "url": "https://www.youtube.com/watch?v=eEteJhp-Ezs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "3 HOURS PURE EPICNESS MIX - EPIC MUSIC 2012/2013",
+          "url": "https://www.youtube.com/watch?v=zqE4goWTvyw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Cyber Police - Cyberpunk Música Mix",
+          "url": "https://www.youtube.com/watch?v=_IfYlVX-LEg"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Cyberpunk 2077 Breathtaking Mix 3 | by Extra Terra",
+          "url": "https://www.youtube.com/watch?v=ueeF2XkrBYQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Dark Techno / Industrial / Cyberpunk Mix 'Revenge ll' | Dark Electro",
+          "url": "https://www.youtube.com/watch?v=jCpkBSmvLGc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Night City - Mix de músicas Synthwave e Cyberpunk",
+          "url": "https://www.youtube.com/watch?v=F7Ut2t0kDnI"
+        }
       ]
     },
     {

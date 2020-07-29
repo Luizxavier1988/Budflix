@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosInicias.categorias[0].videos[0].titulo}
         url={dadosInicias.categorias[0].videos[0].url}
-        videoDescription={"?"}
+        videoDescription={"Traduzido do inglês-O futurismo foi um movimento artístico do início do século XX, que incluía pintura, escultura, poesia, teatro, música, arquitetura, cinema e gastronomia. Filippo Tommaso Marinetti iniciou o movimento com seu Manifesto of Futurism, publicado em fevereiro de 1909."}
       
       />
       <Carousel
