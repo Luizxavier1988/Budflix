@@ -29,3 +29,10 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+#txtarea {
+  line-height: 20px;
+  padding: 10px;
+  height: 90px;
+  resize: none;
+}
