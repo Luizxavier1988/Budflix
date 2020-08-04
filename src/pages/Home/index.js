@@ -13,9 +13,9 @@ function Home() {
       <BannerMain
         videoTitle={dadosInicias.categorias[0].videos[0].titulo}
         url={dadosInicias.categorias[0].videos[0].url}
-        videoDescription={"Traduzido do inglês o futurismo foi um movimento artístico do início do século XX, que incluía pintura, escultura, poesia, teatro, música, arquitetura, cinema e gastronomia. Filippo Tommaso Marinetti iniciou o movimento com seu Manifesto of Futurism, publicado em fevereiro de 1909."}
-      
-      />
+        videoDescription={"Cyberpunk (de Cyber(netic) + punk) é um subgênero alternativo de ficção científica, conhecido por seu enfoque de 'Alta tecnologia e baixa qualidade de vida' (High tech, Low life) e toma seu nome da combinação de cibernética e punk alternativo. Mescla ciência avançada, como as tecnologias de informação e a cibernética junto com algum grau de desintegração ou mudança radical no sistema civil vigente. O movimento que incluí pintura, escultura, poesia, teatro, música, arquitetura, cinema e gastronomia."}
+
+/>
       <Carousel
         ignoreFirstVideo
         category={dadosInicias.categorias[0]}

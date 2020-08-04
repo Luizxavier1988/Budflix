@@ -2,15 +2,15 @@
   "categorias": [
     {
       "titulo": "#MUSIC",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cyberpunk é um sub-gênero de ficção científica que utiliza elementos de romances policiais, film noir e prosa pós-moderna.",
-        "url": "/"
+        "text": "Cyberpunk como um sub-gênero de ficção científica que utiliza música como mensagem.",
+        "url": "https://cyberculturabr.wordpress.com/2016/01/16/a-musica-cyberpunk/"
       },
       "videos": [
         {
-          "titulo": "CYBERPUNK | 2-Hours Epic Music Mix - THE POWER OF EPIC MUSIC - Best Of Collection",
+          "titulo": "CYBERPUNK | FUTURE",
           "url": "https://www.youtube.com/watch?v=YKBskcoofH8&"
         },
         {
@@ -32,148 +32,156 @@
         {
           "titulo": "Dark Techno / Industrial / Cyberpunk Mix 'Revenge ll' | Dark Electro",
           "url": "https://www.youtube.com/watch?v=jCpkBSmvLGc"
-        },
-        {
-          "titulo": "Night City - Mix de músicas Synthwave e Cyberpunk",
-          "url": "https://www.youtube.com/watch?v=F7Ut2t0kDnI"
         }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "#SEARCH",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Pesquisas e estudos do tema futurismo tão correlacionado a cultura contemporânea.",
+        "url": "https://brasilescola.uol.com.br/informatica/cyberpunk.htm"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Futurologia e ficção científica, com Lidia Zuin | Casa Firjan",
+          "url": "https://www.youtube.com/watch?v=OP5AhlfEvgQ"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Sci-Fi prevendo o futuro há 100 anos | LIDIA ZUIN | TEDxMauá",
+          "url": "https://www.youtube.com/watch?v=n8xqe0xFSDA"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O QUE É FUTURISMO?",
+          "url": "https://www.youtube.com/watch?v=vSVASZL2dck"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Literatura: O que é Cyberpunk?",
+          "url": "https://www.youtube.com/watch?v=kNZDVxcyfBw"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Cyberpunk - Refletindo a decadência urbana",
+          "url": "https://www.youtube.com/watch?v=Xw6Jx1Z_jys"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "#ART",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "A aplicação do conceito futurista e do cenário cyberpunk em aplicações artísticas.",
+        "url": "https://www.deviantart.com/tag/cyberpunk"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Illustrating a Cyberpunk Hand Holding a Cigarette in Adobe Illustrator",
+          "url": "https://www.youtube.com/watch?v=E2tj1a-vMSA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Art of Cyberpunk (Gencon Online)",
+          "url": "https://www.youtube.com/watch?v=Vdayyf5X9do"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Cyberpunk 2077 | Concept Art Showcase",
+          "url": "https://www.youtube.com/watch?v=Lep4mGkRpnk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Cyberpunk - A Genre of Social Anarchy and Human Identity",
+          "url": "https://www.youtube.com/watch?v=KHDRZD4a2l8"
+        },
+        {
+          "titulo": "Futurismo - História da Arte",
+          "url": "https://www.youtube.com/watch?v=SWyCVl5FlOE"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "#MOVIES",
       "cor": "orange",
+      "link_extra": {
+        "text": "Filmes de ficção científica e cyberpunk!",
+        "url": "https://www.netflix.com/br/browse/genre/1964512"
+      },      
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "BLADE RUNNER 2049 - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=gCcx85zbxz4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Matrix (The Matrix 1999) - Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=2KnZac176Hs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Akira (1988) Legendary Trailer",
+          "url": "https://www.youtube.com/watch?v=ooKBenGK3R4"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "They Live - Trailer",
+          "url": "https://www.youtube.com/watch?v=jTK8eff1Zsk"
+        },
+        {
+          "titulo": "Ghost In The Shell (1995) - Major vs Tank",
+          "url": "https://www.youtube.com/watch?v=KJhpxYc_Uds"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "#GAMES",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Games com temática futurista para você jogar ao estilo Cyberpunk.",
+        "url": "https://www.uol.com.br/start/album/2019/02/12/games-futuristas-para-voce-jogar-enquanto-espera-por-cyberpunk-2077.htm?foto=1"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "CYBERPUNK 2077 NEW Trailer (2020) ",
+          "url": "https://www.youtube.com/watch?v=YTCUhcyiu4U"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "RUINER Official Reveal Trailer 2017",
+          "url": "https://www.youtube.com/watch?v=Drkuk-D4Tso"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Deus Ex: Mankind Divided ",
+          "url": "https://www.youtube.com/watch?v=CfV01sTqB68"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Neuromancer gameplay (PC Game, 1988)",
+          "url": "https://www.youtube.com/watch?v=m9r7VRNUyR8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Far Cry 3: Blood Dragon",
+          "url": "https://www.youtube.com/watch?v=0dofacvjRkc"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "#",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "_",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "A",
+          "url": "https://www.youtube.com/"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "B",
+          "url": "https://www.youtube.com/"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "C",
+          "url": "https://www.youtube.com/"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "D",
+          "url": "https://www.youtube.com/"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "E",
+          "url": "https://www.youtube.com/"
         }
       ]
     }
