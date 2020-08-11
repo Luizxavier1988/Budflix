@@ -2,15 +2,206 @@
     "categorias": [
         {
             "id": 1,
-            "nome": "Front End 01",
-            "descricao": "Uma Categoria",
-            "cor": "#cbd1ff"
+            "titulo": "#MUSIC",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Cyberpunk como um sub-gênero de ficção científica que utiliza música como mensagem.",
+                "url": "https://cyberculturabr.wordpress.com/2016/01/16/a-musica-cyberpunk/"
+            }
         },
         {
             "id": 2,
-            "nome": "Back End 02",
-            "descricao": "Outra Categoria",
-            "cor": "#cbd1ff"
+            "titulo": "#SEARCH",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Pesquisas e estudos do tema futurismo tão correlacionado a cultura contemporânea.",
+                "url": "https://brasilescola.uol.com.br/informatica/cyberpunk.htm"
+            }
+        },
+        {
+            "id": 3,
+            "titulo": "#ART",
+            "cor": "#9cd33b",
+            "link_extra": {
+                "text": "A aplicação do conceito futurista e do cenário cyberpunk em aplicações artísticas.",
+                "url": "https://www.deviantart.com/tag/cyberpunk"
+            }
+        },
+        {
+            "id": 4,
+            "titulo": "#MOVIES",
+            "cor": "orange",
+            "link_extra": {
+                "text": "Filmes de ficção científica e cyberpunk!",
+                "url": "https://www.netflix.com/br/browse/genre/1964512"
+            }
+        },
+        {
+            "id": 5,
+            "titulo": "#GAMES",
+            "cor": "red",
+            "link_extra": {
+                "text": "Games com temática futurista para você jogar ao estilo Cyberpunk.",
+                "url": "https://www.uol.com.br/start/album/2019/02/12/games-futuristas-para-voce-jogar-enquanto-espera-por-cyberpunk-2077.htm?foto=1"
+            }
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "CYBERPUNK | FUTURE",
+            "url": "https://www.youtube.com/watch?v=YKBskcoofH8&"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
+            "titulo": "Crime City Nights - Cyberpunk / Dark Synthwave",
+            "url": "https://www.youtube.com/watch?v=eEteJhp-Ezs"
+        },
+        {
+            "id": 3,
+            "categoriaId": 1,
+            "titulo": "3 HOURS PURE EPICNESS MIX - EPIC MUSIC 2012/2013",
+            "url": "https://www.youtube.com/watch?v=zqE4goWTvyw"
+        },
+        {
+            "id": 4,
+            "categoriaId": 1,
+            "titulo": "Cyber Police - Cyberpunk Música Mix",
+            "url": "https://www.youtube.com/watch?v=_IfYlVX-LEg"
+        },
+        {
+            "id": 5,
+            "categoriaId": 1,
+            "titulo": "Cyberpunk 2077 Breathtaking Mix 3 | by Extra Terra",
+            "url": "https://www.youtube.com/watch?v=ueeF2XkrBYQ"
+        },
+        {
+            "id": 6,
+            "categoriaId": 1,
+            "titulo": "'Back To The 80's' | Best of Synthwave And Retro Electro Music Mix | Vol. 22",
+            "url": "https://www.youtube.com/watch?v=LxQWv-p5BMQ"
+        },
+        {
+            "id": 7,
+            "categoriaId": 2,
+            "titulo": "Futurologia e ficção científica, com Lidia Zuin | Casa Firjan",
+            "url": "https://www.youtube.com/watch?v=OP5AhlfEvgQ"
+        },
+        {
+            "id": 8,
+            "categoriaId": 2,
+            "titulo": "Sci-Fi prevendo o futuro há 100 anos | LIDIA ZUIN | TEDxMauá",
+            "url": "https://www.youtube.com/watch?v=n8xqe0xFSDA"
+        },
+        {
+            "id": 9,
+            "categoriaId": 2,
+            "titulo": "O QUE É FUTURISMO?",
+            "url": "https://www.youtube.com/watch?v=vSVASZL2dck"
+        },
+        {
+            "id": 10,
+            "categoriaId": 2,
+            "titulo": "Literatura: O que é Cyberpunk?",
+            "url": "https://www.youtube.com/watch?v=kNZDVxcyfBw"
+        },
+        {
+            "id": 11,
+            "categoriaId": 2,
+            "titulo": "Cyberpunk - Refletindo a decadência urbana",
+            "url": "https://www.youtube.com/watch?v=Xw6Jx1Z_jys"
+        },
+        {
+            "id": 12,
+            "categoriaId": 3,
+            "titulo": "Illustrating a Cyberpunk Hand Holding a Cigarette in Adobe Illustrator",
+            "url": "https://www.youtube.com/watch?v=E2tj1a-vMSA"
+        },
+        {
+            "id": 13,
+            "categoriaId": 3,
+            "titulo": "Art of Cyberpunk (Gencon Online)",
+            "url": "https://www.youtube.com/watch?v=Vdayyf5X9do"
+        },
+        {
+            "id": 14,
+            "categoriaId": 3,
+            "titulo": "Cyberpunk 2077 | Concept Art Showcase",
+            "url": "https://www.youtube.com/watch?v=Lep4mGkRpnk"
+        },
+        {
+            "id": 15,
+            "categoriaId": 3,
+            "titulo": "Cyberpunk - A Genre of Social Anarchy and Human Identity",
+            "url": "https://www.youtube.com/watch?v=KHDRZD4a2l8"
+        },
+        {
+            "id": 16,
+            "categoriaId": 3,
+            "titulo": "Futurismo - História da Arte",
+            "url": "https://www.youtube.com/watch?v=SWyCVl5FlOE"
+        },
+        {
+            "id": 17,
+            "categoriaId": 4,
+            "titulo": "BLADE RUNNER 2049 - Official Trailer",
+            "url": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+        },
+        {
+            "id": 18,
+            "categoriaId": 4,
+            "titulo": "Matrix (The Matrix 1999) - Trailer Legendado",
+            "url": "https://www.youtube.com/watch?v=2KnZac176Hs"
+        },
+        {
+            "id": 19,
+            "categoriaId": 4,
+            "titulo": "Akira (1988) Legendary Trailer",
+            "url": "https://www.youtube.com/watch?v=ooKBenGK3R4"
+        },
+        {
+            "id": 20,
+            "categoriaId": 4,
+            "titulo": "They Live - Trailer",
+            "url": "https://www.youtube.com/watch?v=jTK8eff1Zsk"
+        },
+        {
+            "id": 21,
+            "categoriaId": 4,
+            "titulo": "Ghost In The Shell (1995) - Major vs Tank",
+            "url": "https://www.youtube.com/watch?v=KJhpxYc_Uds"
+        },
+        {
+            "id": 22,
+            "categoriaId": 5,
+            "titulo": "CYBERPUNK 2077 NEW Trailer (2020) ",
+            "url": "https://www.youtube.com/watch?v=YTCUhcyiu4U"
+        },
+        {
+            "id": 23,
+            "categoriaId": 5,
+            "titulo": "RUINER Official Reveal Trailer 2017",
+            "url": "https://www.youtube.com/watch?v=Drkuk-D4Tso"
+        },
+        {
+            "id": 24,
+            "categoriaId": 5,
+            "titulo": "Deus Ex: Mankind Divided ",
+            "url": "https://www.youtube.com/watch?v=CfV01sTqB68"
+        },
+        {
+            "id": 25,
+            "categoriaId": 5,
+            "titulo": "Neuromancer gameplay (PC Game, 1988)",
+            "url": "https://www.youtube.com/watch?v=m9r7VRNUyR8"
+        },
+        {
+            "id": 26,
+            "categoriaId": 5,
+            "titulo": "Far Cry 3: Blood Dragon",
+            "url": "https://www.youtube.com/watch?v=0dofacvjRkc"
         }
     ]
 }

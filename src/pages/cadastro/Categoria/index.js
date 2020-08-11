@@ -3,14 +3,9 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
+import useForm from '../../../hooks/useForm';
 
-function CadastroCategoria() {
-  const valoresIniciais = {
-    nome: '',
-    descricao: '',
-    cor: '',
-  };
-  const [categorias, setCategorias] = useState([]);
+/* function useForm(valoresIniciais) {
   const [values, setValues] = useState(valoresIniciais);
 
   function setValue(chave, valor) {
@@ -20,18 +15,39 @@ function CadastroCategoria() {
     });
   }
 
-  /*  function handlerChange(infosDoEvento) {
-        const { getAttribute, value } = infosDoEvento.target;
-        setValue ( getAttribute('name'), value );
-    }
-*/
-
   function handlerChange(infosDoEvento) {
     setValue(
       infosDoEvento.target.getAttribute('name'),
       infosDoEvento.target.value,
     );
   }
+  function clearForm() {
+    setValues(valoresIniciais)
+  }
+
+  return {
+    values,
+    handlerChange,
+    clearForm,
+  }
+} */
+
+function CadastroCategoria() {
+  const valoresIniciais = {
+    nome: '',
+    descricao: '',
+    cor: '',
+  };
+
+  const { handlerChange, values, clearForm } = useForm(valoresIniciais);
+
+  const [categorias, setCategorias] = useState([]);
+
+  /*  function handlerChange(infosDoEvento) {
+        const { getAttribute, value } = infosDoEvento.target;
+        setValue ( getAttribute('name'), value );
+    }
+*/
 
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
@@ -78,7 +94,7 @@ function CadastroCategoria() {
           values,
         ]);
 
-        setValues(valoresIniciais);
+        clearForm();
       }}
       >
         <FormField
@@ -119,9 +135,9 @@ function CadastroCategoria() {
       )}
 
       <ul>
-        {categorias.map((categoria, indice) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+        {categorias.map((categoria) => (
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
           </li>
         ))}
 
